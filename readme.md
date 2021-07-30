@@ -1,5 +1,3 @@
-**COMP5422 Multimedia Computing, Systems and Applications**
-
 **Assignment**
 
 # File structure
